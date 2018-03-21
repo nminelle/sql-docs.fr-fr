@@ -112,7 +112,7 @@ SELECT @@SERVERNAME,
 
 Pour identifier facilement le conteneur cible, définissez `-h` et `--name` sur la même valeur.
 
-## <a name="change-the-sa-password"></a>Changer le mot de passe AS
+## <a name="change-the-sa-password"></a>Changer le mot de passe SA
 
 [!INCLUDE [Change docker password](../includes/sql-server-linux-change-docker-password.md)]
 
